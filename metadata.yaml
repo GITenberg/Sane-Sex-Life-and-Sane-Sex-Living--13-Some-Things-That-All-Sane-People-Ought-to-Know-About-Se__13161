@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4875'
     url: http://www.gutenberg.org/2009/agents/4875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13161#Sane-Sex-Life-and-Sane-Sex-Living--13-Some-Things-That-All-Sane-People-Ought-to-Know-About-Se_
 gutenberg_issued: '2004-08-12'
 gutenberg_type: Text
 identifiers:
